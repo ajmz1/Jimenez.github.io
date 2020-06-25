@@ -16,6 +16,10 @@ social:
     href: https://github.com/ajmz1
     icon: fab fa-github
     color: "#24292e"
+    
+  - name: Linkedin
+    href: https://www.linkedin.com/in/anthony-jimenez-863798158/
+    icon: fab fa-linkedin-in
 
   - name: Mail
     href: mailto:anthonyjmz98@tamu.edu
