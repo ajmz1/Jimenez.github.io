@@ -7,21 +7,25 @@ permalink: /projects
 <section class="container">
   <h2>Projects</h2>
   <p>
-    I welcome new ideas, projects, and collaborations. Contact me 
-    <a href= "http://www.fa-jimenez.com/contact" >here</a
-    >
-    if you would like to collaborate or have any questions.
+    I welcome new ideas, projects, and collaborations. If you have
+    any questions or find something interesting, feel free to contact me 
+    <a href= "http://www.fa-jimenez.com/contact" >here<
+    /a>.
   </p>
+  
+  <p></p>
+  
   <p>
     I am in the process of writing articles to accompany my
     python scripts, so please check back periodically as I
     catch up.
   </p>
   
-  <h4>Table of Contents</h4>
   
   <!--
   
+
+  <h4>Table of Contents</h4>  
   <ul class="list-unstyled">
     {% assign sorted_projects = site.data.projects | sort: 'title' %}
     {% for project in sorted_projects %}
@@ -32,15 +36,7 @@ permalink: /projects
   </ul>
 </section>
 
--->
-
-
 <div class="spacer"></div>
-
-
-<!--
-  
-
 {% for project in site.data.projects %}
 <section class="container" id="{{ project.title | url_encode }}">
   <h3>{{ project.title }} <small>{{ project.date }}</small></h3>
