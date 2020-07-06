@@ -35,7 +35,7 @@ permalink: /projects
   <h3>{{ project.title }} <small>{{ project.date }}</small></h3>
   {% assign repo = project.repo %}
   {% assign tags = project.tags %}
-  {% include tags.html repo=repo tags=tags %}
+  {% include tags.html tags=tags %}
   {% if project.summary %}
   {% capture include_path %}projects/{{ project.summary }}{% endcapture %}
   {% include {{ include_path }} %}
