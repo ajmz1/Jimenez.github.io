@@ -1,10 +1,4 @@
 <div class="tags">
-  <!--
-  <a class="badge badge-gold" href="https://github.com/{{ include.repo }}">
-    <i class="fas fa-star"></i>
-    <span class="star-count" data-repo="{{ include.repo }}"></span>
-  </a>
--->
   {% assign taglist = include.tags | split: "," %}
   {% for tag in taglist %}
   <span class="badge badge-secondary">{{ tag }}</span>
