@@ -14,3 +14,8 @@
   date: August 2021
   tags: Petroleum Engineering,Jupyter Notebook,Python
   summary: hyperbolic-decline-optimization.html
+- title: Data Viz&#58 Animating US State Population Evolution
+  date: August 2021
+  tags: USA,DataViz,Jupyter Notebook,Python,Plotly
+  summary: us-state-population-evolution.html
+  
