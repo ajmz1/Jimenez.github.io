@@ -18,4 +18,7 @@
   date: August 2021
   tags: USA,DataViz,Jupyter Notebook,Python,Plotly
   summary: us-state-population-evolution.html
-  
+- title: Reservoir Engr&#58 DAK Z-Factor Correlation for Real Gases
+  date: August 2021
+  tags: Reservoir Engineering,Petroleum Engineering,Jupyter Notebook,Python
+  summary: z-factor-correlation-DAK.html
