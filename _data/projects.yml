@@ -26,7 +26,7 @@
   date: August 2021
   tags: Numerical Methods,Jupyter Notebook,Python
   summary: integration-methods.html
-- title: Reservor Engr&#58 De-noising pressure derivative data for well testing
+- title: Reservoir Engr&#58 De-noising pressure derivative data for well testing
   date: August 2021
   tags: Well Testing,Reservoir Engineering,Jupyter Notebook,Python
   summary: bourdet-derivative-smoothing.html
